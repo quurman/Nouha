@@ -24,7 +24,7 @@ print ga.green+'''
         #|  By Danger Nouha  -  @100013898196018                     #
         #|  This Version Supports Remote Code/Command Execution, XSS #
         #|  And SQL Injection.                                       #
-	    #|  Thanks To Blokajeon Team                                 #
+        #|  Thanks To Blokajeon Team                                 #
     	#|  More Details: @Soukaina echakiri                         #
         ##############################################################
         '''+ga.end
